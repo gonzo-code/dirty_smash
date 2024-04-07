@@ -5,6 +5,8 @@ Basically this code just slices and dices multiple requests in a way that enable
 
 Read more here: https://portswigger.net/research/smashing-the-state-machine
 
+Write up about what inspired me to dive into this type of issue more: https://medium.com/@gonzo-hacks/the-fast-and-the-curious-finding-a-race-condition-in-worldcoin-621c89bfbd61
+
 # Install
 `pip install h2spacex`
 
